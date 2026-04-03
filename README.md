@@ -26,7 +26,7 @@ This repository contains the solution for the **AI Engineer Task (Test 2)**. The
 
   * **Frameworks**: PyTorch, Hugging Face `transformers`, `peft`, `trl`, `bitsandbytes`.
   * **Method**: **LoRA (Low-Rank Adaptation)** for efficient weight updates.
-  * **Hardware**: Trained on **Kaggle Free GPU (T4)** environment.
+  * **Hardware**: Trained on **Kaggle Free P100 GPU** environment.
 
 ## 🏗 Architecture & Design Patterns
 
