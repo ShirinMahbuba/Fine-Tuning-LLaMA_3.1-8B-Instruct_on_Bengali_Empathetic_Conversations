@@ -48,7 +48,7 @@ To handle the large model size on limited hardware, the following optimizations 
 
 All experiment logs and generated responses are stored in `assessment_results.db`.
 
-  * **Training Loss**: 0.9021.
+  * **Training Loss**: 0.91284
   * **Metrics**: BLEU and ROUGE-L scores were calculated (currently 0.0 due to short training steps and specific token matching).
   * **Sample Input**: "আমার খুব একা লাগছে, আমি কি করতে পারি?" (I feel very lonely, what can I do?).
   * **Model Output**: "আমি মনে করি আপনার জন্য এটি খুব সম্ভব। আপনি কি..." (I think it is very possible for you. Do you...).
