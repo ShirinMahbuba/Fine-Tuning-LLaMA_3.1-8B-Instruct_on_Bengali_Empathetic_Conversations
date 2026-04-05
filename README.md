@@ -66,5 +66,6 @@ All experiment logs and generated responses are stored in `assessment_results.db
 
 ## 📺 Explanation Video
 
-[**Insert your YouTube/Google Drive link here**]
+https://drive.google.com/file/d/1_CgdrmQN6psa3GAMcIww59x237BbExW7/view?usp=sharing
+
 
